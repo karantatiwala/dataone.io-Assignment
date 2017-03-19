@@ -1,7 +1,7 @@
 # dataone.io-Assignment
 Coding Challenge
 
-Coding Assignment for dataone.io Internship. The task was to retrieve data from .csv file and use that data to Solve the Queston.
+Coding Assignment for dataone.io Internship. The task was to retrieve data from .csv file i.e, [data.csv](https://github.com/karantatiwala/dataone.io-Assignment/blob/master/data.csv) and use that data to Solve the Queston.
 <br />
 [Coding Assignment](https://github.com/karantatiwala/dataone.io-Assignment/blob/master/Assignment.pdf)
 
